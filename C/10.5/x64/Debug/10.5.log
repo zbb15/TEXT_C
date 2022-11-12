@@ -1,0 +1,5 @@
+﻿  10.5.c
+F:\C\10.5\10.5.c(9,8): warning C4013: “open”未定义；假设外部返回 int
+F:\C\10.5\10.5.c(9,31): warning C4047: “=”:“FILE *”与“int”的间接级别不同
+F:\C\10.5\10.5.c(10,30): warning C4047: “=”:“FILE *”与“int”的间接级别不同
+  10.5.vcxproj -> F:\C\10.5\x64\Debug\10.5.exe
