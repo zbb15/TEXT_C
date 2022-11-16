@@ -1,0 +1,8 @@
+﻿  tic-tac-toe.c
+F:\C\tic-tac-toe\tic-tac-toe.c(6,17): warning C4047: “函数”:“const char *const ”与“int”的间接级别不同
+F:\C\tic-tac-toe\tic-tac-toe.c(6,13): warning C4024: “printf”: 形参和实参 1 的类型不同
+F:\C\tic-tac-toe\tic-tac-toe.c(9,17): warning C4047: “函数”:“const char *const ”与“int”的间接级别不同
+F:\C\tic-tac-toe\tic-tac-toe.c(9,13): warning C4024: “printf”: 形参和实参 1 的类型不同
+F:\C\tic-tac-toe\tic-tac-toe.c(20,8): warning C4102: “case1”: 未引用的标签
+F:\C\tic-tac-toe\tic-tac-toe.c(23,8): warning C4102: “case2”: 未引用的标签
+  tic-tac-toe.vcxproj -> F:\C\tic-tac-toe\x64\Debug\tic-tac-toe.exe
